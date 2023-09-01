@@ -1,0 +1,33 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color:#000000;
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    flex-direction:column;
+    width:100%;
+    text-align:center;
+    align-items:center;
+    padding-bottom:30px;
+}
+ 
+ h1 {
+    margin:10px;
+    padding:0 2px;
+    text-shadow:2px 2px #7D1B7E;
+    font-weight:bold;
+    font-size:40px;color:#893BFF
+ }
+
+p{
+   color:#0000CC;
+   font-size:39px;
+   margin:50px;
+   padding:0 2px;
+   font-weight:bold;
+   font-size:39px;
+}  
